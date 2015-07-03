@@ -15,6 +15,14 @@ Both are contained in one convenient presentation per event.
 
 See the index in `presentations/events` for an overview.
 
+## Inspiration: Examples of Scrum Tools
+
+ * Some example product backlogs
+ * Some example team calendars
+ * An example capacity plannning
+ * A roadmap
+ 
+
 ## External resources
 
 ### Books

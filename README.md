@@ -22,9 +22,10 @@ Summary slides typically only contain a meeting structure and a DoD for the even
 
 ### Books
 
- * [Essential Scrum](http://www.amazon.com/gp/product/0137043295/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0137043295&linkCode=as2&tag=scrumresource-20&linkId=RUYQZUPTV2RRLI4V), by Kenneth S Rubin
+ * [Essential Scrum](http://www.amazon.com/gp/product/0137043295/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0137043295&linkCode=as2&tag=scrumresource-20&linkId=RUYQZUPTV2RRLI4V), by Kenneth S. Rubin
 
 ### Online
 
  * http://scrumguides.org/
  * https://www.scrum.org/
+ * [Scrum Framework](http://agileatlas.org/articles/item/scrum-framework), by Kenneth S. Rubin

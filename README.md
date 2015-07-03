@@ -1,6 +1,8 @@
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Scrum Resources</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 # scrum-resources
 
-This is a collection of resources we like to use when doing Scrum.
+This is a collection of resources we like to use when doing and teaching Scrum.
 
 We encourage you to fork this repo and adapt its content for use in your own team.
 
@@ -24,3 +26,8 @@ See the index in `presentations/events` for an overview.
  * http://scrumguides.org/
  * https://www.scrum.org/
  * [Scrum Framework](http://agileatlas.org/articles/item/scrum-framework), by Kenneth S. Rubin
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Scrum Resources</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
